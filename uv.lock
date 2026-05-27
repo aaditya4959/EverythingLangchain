@@ -420,6 +420,8 @@ dependencies = [
     { name = "langchain-google-vertexai" },
     { name = "langchain-groq" },
     { name = "langchain-openai" },
+    { name = "langgraph" },
+    { name = "langsmith" },
     { name = "python-dotenv" },
 ]
 
@@ -432,6 +434,8 @@ requires-dist = [
     { name = "langchain-google-vertexai", specifier = ">=3.2.3" },
     { name = "langchain-groq", specifier = ">=1.1.2" },
     { name = "langchain-openai", specifier = ">=1.2.2" },
+    { name = "langgraph", specifier = ">=1.2.1" },
+    { name = "langsmith", specifier = ">=0.8.5" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
 ]
 
