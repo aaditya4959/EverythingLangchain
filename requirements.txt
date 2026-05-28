@@ -8,3 +8,4 @@ python-dotenv
 langchain-google-genai
 langchain-google-vertexai
 langchain-groq
+langchain_tavily
